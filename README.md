@@ -7,9 +7,10 @@ Credits go to the original author.
 # Prerequisites
 1) Download and install the [PS2 Emulator PCSX2](https://pcsx2.net/)
 2) Download/clone [USBqemu-wheel](https://github.com/jackun/USBqemu-wheel)
-3) Get the bios files from your original PS2, as described [here](https://pcsx2.net/docs/usage/setup/#how-to-dump-your-ps2-bios). Note, that downloading the bios files from the Internet might break copyright laws and is therefore not recommended!
-4) Make ISO of one of your SingStar PS2 discs to PC, as described [here](https://pcsx2.net/docs/usage/setup/#dumping-ps2-discs-via-imgburn).
+3) Get the bios files from your original PS2, as described [here](https://pcsx2.net/docs/usage/setup/#how-to-dump-your-ps2-bios). 
+4) Make ISO of one of your SingStar PS2 discs to PC, as described [here](https://pcsx2.net/docs/usage/setup/#dumping-ps2-discs-via-imgburn). 
 
+Note, that downloading the bios files or ISOs from the Internet will break copyright laws!
 
 # Startup
 1) Copy path/to/USBqemu-wheel/dist/USBqemu-wheel.dll to path/to/PCSX2/Plugins
