@@ -1,4 +1,4 @@
-# How to get Singstar running on your PC
+# How to play Singstar on your Computer:
 
 This documentation is complemenatary to and based on [this thread](https://www.reddit.com/r/PCSX2/comments/40ryt9/how_to_play_singstar_on_pcsx2/).
 I found some things hard to figure out, so I decided to make a more detailed tutorial. 
