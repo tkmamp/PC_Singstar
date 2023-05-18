@@ -1,7 +1,6 @@
-# SingstarEmulator
-How to get Singstar running on your PC
+# How to get Singstar running on your PC
 
-This documentation is complemenatary to [this thread](https://www.reddit.com/r/PCSX2/comments/40ryt9/how_to_play_singstar_on_pcsx2/).
+This documentation is complemenatary to and based on [this thread](https://www.reddit.com/r/PCSX2/comments/40ryt9/how_to_play_singstar_on_pcsx2/). 
 
 # Prerequisites
 1) Download and install the [PS2 Emulator PCSX2](https://pcsx2.net/)
