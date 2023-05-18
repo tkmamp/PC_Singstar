@@ -10,7 +10,7 @@ Credits go to the original author.
 3) Get the bios files from your original PS2, as described [here](https://pcsx2.net/docs/usage/setup/#how-to-dump-your-ps2-bios). 
 4) Make ISO of one of your SingStar PS2 discs to PC, as described [here](https://pcsx2.net/docs/usage/setup/#dumping-ps2-discs-via-imgburn). 
 
-Note, that downloading the bios files or ISOs from the Internet will break copyright laws!
+Note, that downloading the bios files or ISOs from the Internet might break copyright laws!
 
 # Startup
 1) Copy path/to/USBqemu-wheel/dist/USBqemu-wheel.dll to path/to/PCSX2/Plugins
