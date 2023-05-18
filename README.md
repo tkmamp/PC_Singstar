@@ -12,14 +12,15 @@ Credits go to the original author.
 
 Note, that downloading the bios files or ISOs from the Internet might break copyright laws!
 
-# Startup
+# Setup
+## Initialize
 1) Copy path/to/USBqemu-wheel/dist/USBqemu-wheel.dll to path/to/PCSX2/Plugins
 2) Copy the PS2-Bios files to path/to/PCSX2/bios
 3) Start the Emulator (run pcsx2.exe)
 4) Select the BIOS-File during the initial setup
 
 
-# Emulator-Setup
+## Emulator-Setings
 1) Make sure your Singstar-Mics are connected 
 2) Open Config -> Plugins/BIOS Selector
 3) Select *Qemu USB Driver (Wheel)* in Plugins -> USB and hit Configure...
@@ -28,7 +29,7 @@ Note, that downloading the bios files or ISOs from the Internet might break copy
 6) Select Player 1 and Player 2 identical to *Microphone (USBMIC Serial#...)*
 
 
-# Enable 2 channels of the Microphone:
+## Enable 2 channels of the Microphone:
 1) In Windows open your Control Panel
 2) Go to Hardware and Sound -> Sound -> Recording
 3) Find the *USBMIC Serial#...* and open its Properties
