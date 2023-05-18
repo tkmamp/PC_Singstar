@@ -7,8 +7,8 @@ Credits go to the original author.
 # Prerequisites
 1) Download and install the [PS2 Emulator PCSX2](https://pcsx2.net/)
 2) Download/clone [USBqemu-wheel](https://github.com/jackun/USBqemu-wheel)
-3) Get the bios files from your original PS2, as described [here](https://pcsx2.net/docs/usage/setup/#how-to-dump-your-ps2-bios). Downloading this from the Internet might break copyright laws and is therefore not recommended!
-4) Make ISO of one of your SingStar PS2 discs to PC, as described [here](https://pcsx2.net/docs/usage/setup/#dumping-ps2-discs-via-imgburn). Again, downloading ISOs from shady sources is at your own risk and not recommended.
+3) Get the bios files from your original PS2, as described [here](https://pcsx2.net/docs/usage/setup/#how-to-dump-your-ps2-bios). Note, that downloading the bios files from the Internet might break copyright laws and is therefore not recommended!
+4) Make ISO of one of your SingStar PS2 discs to PC, as described [here](https://pcsx2.net/docs/usage/setup/#dumping-ps2-discs-via-imgburn).
 
 
 # Startup
@@ -21,17 +21,17 @@ Credits go to the original author.
 # Emulator-Setup
 1) Make sure your Singstar-Mics are connected 
 2) Open Config -> Plugins/BIOS Selector
-3) Select 'Qemu USB Driver (Wheel) in Plugins -> USB and hit Configure...
-4) In Device type, Port 1 select Singstar (leave Port 2 None)
-5) In Device API, Port 1 select WASAPI, hit Configure
-6) Select Player 1 and Player 2 to Microphone (USBMIC Serial#...)
+3) Select *Qemu USB Driver (Wheel)* in Plugins -> USB and hit Configure...
+4) In Device type, Port 1 select *Singstar* (leave Port 2 None)
+5) In Device API, Port 1 select *WASAPI*, hit Configure
+6) Select Player 1 and Player 2 identical to *Microphone (USBMIC Serial#...)*
 
 
 # Enable 2 channels of the Microphone:
 1) In Windows open your Control Panel
 2) Go to Hardware and Sound -> Sound -> Recording
-3) Find the USBMIC Serial# and open its Properties
-4) Go to Advanced and select the Default Format to (any) 2 channel setting
+3) Find the *USBMIC Serial#...* and open its Properties
+4) Go to Advanced and change the Default Format to (any) 2 channel setting
 
 # Playing Singstar
 1) In the emulator, Hit System -> Boot ISO (fast)
